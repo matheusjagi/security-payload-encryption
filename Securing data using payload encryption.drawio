@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T15:50:24.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="gUCXOp7eZJ8EQpXxtQrm" type="github"><diagram id="R0Ss4HX98bIq7mBMdM5B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-22T16:12:14.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="riE_DGdlnlUKs660aNvE" version="20.5.3" type="github">
+  <diagram id="R0Ss4HX98bIq7mBMdM5B" name="Página-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADEAAABDCAYAAAA1du3WAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPYSURBVGhD7ZpNSFRRGIa/kRbZIkh3jm7ULLNU7AeNWmSkBkUr3SrkQoOKrFYFGaEU1AhFZpBEWy3E/lArkVrUKowoKXXCHAXJLMPuuLCZznvvGRrw/sw5I/fesXng4zjnHPC+95zvzvfOuZ4wgxKcFN4mNEkRbiEpwi0kRbiFmL4npqemaNw/RovBIO+xh4wMLxVs3cY/GWMp4mFvD716OcQ/2U+G10t1dfW0IS2N9yzHVAQuHiKyc3KpovIg77WP8bFRejbQRzns/zccO857dYAII3zXroRbLjWHFUXhPfbT2/MgfKbpRHgqEOA9yzFNbOQCljE1NZX32E927ka1nZ4OqK0ern86RW7g3Nyc2uohL6LrAlHTFqKGTCJfNdHkBz5gP3Iibh0lGuwkWrueKK+U6PNropZKx4SIi8CFvusnKmIX3fqGrcZ9Ft3a2GOf1hqhzFuHBOIicNfB/nqtBXll2oqM8jEjvrwl6mk1jkdX+UQxxEVkFWhtRAxQfhEFPhJlshyxIm+3cWTv4JPEEBeBu46LHbyjbR9srQ6WIxBSHrU6ehTsI9p5xDwkkEvs2jaiNPZUgggkOValupmouIpPsBc5EdhS5weIzrFVQFL72FaKzhGbkRMRAWKwvdaxR62DxCfCJawKEaal+NnTJ9UyvJGVwZ9G3rOKN8RH7GFTfiH5/ePU0X6DDlRUGdoBoZWY/TZja8SMWpAbgDq+/eZ19e9QKORIjI2NqtfR3/dUvQ49Yl4Jj8fjSMRC8unkFuREoE7qZmVGxBTBS0QXhDYjJ+LeKaIXrABE/VTGXN3sV0fdnbiIaFOE+gnFIIwRsDJFM37rkEBchJ4pUmuoGEzR7ATR89vGMXSXTxRDXEQ8pihlDVHJIeMorOATxRAXETFF2DrIA7RI7FhMUf5e65BALrEbO7Xtg9WACOVnApqi9CwtmVuYCJiitpEENkUQg+3lMPGJcAmrQoSQKVKUBT5iD8UlpStviv4sLdkaMaO6CgOiTZFTrKgpcjP/uQiU4ig34Ck62Bfd90k+YD9yInBKBFP0e16ro4b7NEEOCREXAT+BU6LoQxb8JosCsIsJM2Phh3VIIC4iwN2bnp9AOW7GxDBR72XjeGJhqgwQF4F6Cej5iXQv7zBh8x7jyN3FJ4khLiKT3XV4a71DliKLUhyHLNsPm4cE4iLwMz78BE5OISJyyFLOWofKcXERADmgJjXzErVwdkxEzUU+aD9yIiLAS5TV/MsTh7CsYvFaAt47corgYlB9x8SsirUU4RakRSQK8eWES0iKcAtJEW4hKcItrAIRRH8BXVpYmiMSQ38AAAAASUVORK5CYII=;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="17.16" width="59" height="80.67" as="geometry" />
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="92" y="127.83" width="10" height="362.17" as="geometry" />
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-4" value="Encrypts request payload" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.8814" y="9" relative="1" as="geometry">
+            <mxPoint x="103" y="159" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="159" />
+              <mxPoint x="150" y="190" />
+            </Array>
+            <mxPoint x="110" y="190" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="340" y="127.83" width="10" height="362.17" as="geometry" />
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-6" value="Sends request" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;rounded=0;exitX=1.1;exitY=0.26;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="16cJzlvK5j3QCXYWj2U9-3">
+          <mxGeometry x="-0.5882" y="-1" relative="1" as="geometry">
+            <mxPoint x="280" y="127.83000000000001" as="sourcePoint" />
+            <mxPoint x="340" y="222" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-12" value="Encrypt response payload" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=1.1;exitY=0.124;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.6618" y="10" relative="1" as="geometry">
+            <mxPoint x="350" y="319.99908000000005" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="397" y="319.9" />
+              <mxPoint x="397" y="350.9" />
+            </Array>
+            <mxPoint x="357" y="350.9" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-13" value="Decrypts request payload" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=1.1;exitY=0.124;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.6618" y="10" relative="1" as="geometry">
+            <mxPoint x="350" y="250.04908000000006" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="397" y="249.95" />
+              <mxPoint x="397" y="280.95000000000005" />
+            </Array>
+            <mxPoint x="357" y="280.95000000000005" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-15" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="1">
+          <mxGeometry x="310" y="26.75" width="70" height="61.49" as="geometry" />
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-16" value="Sends response" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.593" y="-2" relative="1" as="geometry">
+            <mxPoint x="340" y="380" as="sourcePoint" />
+            <mxPoint x="100" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-17" value="Decrypts response payload" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;exitX=1.1;exitY=0.124;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.8643" y="10" relative="1" as="geometry">
+            <mxPoint x="102" y="419.99908000000005" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="149" y="419.9" />
+              <mxPoint x="149" y="450.9" />
+            </Array>
+            <mxPoint x="109" y="450.9" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-19" value="API" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="92.83" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16cJzlvK5j3QCXYWj2U9-20" value="Your Application" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42" y="93" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
