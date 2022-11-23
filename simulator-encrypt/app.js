@@ -27,8 +27,7 @@ function encryptAES(info) {
 
     return {
         "iv": iv.toString(outputEncoding),
-        "encryptedKey": encryptRSA(sessionKey),
-        "encryptedKey": sessionKey.toString(outputEncoding),
+        "encryptedKey": encryptRSA(sessionKey.toString(outputEncoding)),
         "encryptedValue": Buffer.concat([encryptedInfo, tag]).toString(outputEncoding)
     };
 }
