@@ -8,7 +8,7 @@ app.use(express.urlencoded());
 
 const outputEncoding = 'hex',
     inputEncoding = 'utf8',
-    algorithm = 'aes-256-ctr', 
+    algorithm = 'aes-256-gcm', 
     oaepHashingAlgorithm = 'SHA256',
     ivLength = 16,
     sessionKeyLength = 32;
@@ -20,14 +20,17 @@ app.post('/encrypt', function (req, res) {
 function encryptAES(info) {
     const iv = crypto.randomBytes(ivLength).toString(outputEncoding).slice(0, 16);
     const sessionKey = crypto.randomBytes(sessionKeyLength).toString(outputEncoding).slice(0, 32);
+
     const cipher = crypto.createCipheriv(algorithm, sessionKey, iv);
 
     let encryptedInfo = cipher.update(info, inputEncoding, outputEncoding) + cipher.final(outputEncoding);
+    const tag = cipher.getAuthTag();
 
     return {
         "iv": iv,
         "encryptedKey": encryptRSA(sessionKey),
         "encryptedValue": encryptedInfo,
+        "tag": tag,
         "oaepHashingAlgorithm": oaepHashingAlgorithm
     };
 }
